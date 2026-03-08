@@ -404,4 +404,4 @@ Rithikha S (23BRS1374)
 
 Implementation of a **Semantic Search System with Fuzzy Clustering and Semantic Caching** for the **Trademarkia AI/ML Engineer Task**.
 
-GitHub: 
+GitHub: https://github.com/roboticengguseratvit/trademarkia-semantic-search-system/tree/main
