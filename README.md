@@ -19,19 +19,7 @@ The implementation includes **analysis notebooks, evaluation metrics, and a Fast
 # System Architecture
 
 
-User Query
-   ↓
-Sentence Transformer Embedding
-   ↓
-Semantic Cache Lookup
-   ↓
-Vector Database Search (FAISS)
-   ↓
-Top-K Document Retrieval
-   ↓
-Fuzzy Cluster Prediction
-   ↓
-API Response
+User Query --> Sentence Transformer Embedding --> Semantic Cache Lookup --> Vector Database Search (FAISS) --> Top-K Document Retrieval --> Fuzzy Cluster Prediction --> API Response
 
 
 ---
